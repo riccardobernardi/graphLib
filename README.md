@@ -1,3 +1,4 @@
 # graphLib
 
-A Simple Lightweight library built for a course in object programming. It permits to manipulate easily a graph and designing it or have some calculations on it. You can search Markov Chain static matrix and you can import data from files to search interactions between words.
+library for graph analysis able to give statistics about degrees of separation between words in a text, receive statistics on use, paint the relative graph of words, find markovian static pi-matrix and other functionalities as matrix-to-graph and graph-to-matrix
+
